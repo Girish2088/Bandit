@@ -17,10 +17,15 @@ Level 4 → 5
 -[level 0-5](0-5.md)
 
 Level 5 → 6
+
 Level 6 → 7
+
 Level 7 → 8
+
 Level 8 → 9
+
 Level 9 → 10
+
 -[level 6-10](6-10.md)
 
 
